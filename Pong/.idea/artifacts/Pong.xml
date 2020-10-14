@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Pong">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pong</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="GameLauncher" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="paramFile" value="--module-path C:/Users/janni/Documents/javafx-sdk-11.0.2/lib --add-modules=javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.web --add-reads javafx.graphics=ALL-UNNAMED --add-opens javafx.controls/com.sun.javafx.charts=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.iio=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.iio.common=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.css=ALL-UNNAMED --add-opens javafx.base/com.sun.javafx.runtime=ALL-UNNAMED" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Pong.jar">
+        <element id="module-output" name="Pong" />
+      </element>
+    </root>
+  </artifact>
+</component>

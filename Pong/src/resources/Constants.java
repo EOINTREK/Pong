@@ -1,0 +1,14 @@
+package resources;
+
+public interface Constants {
+
+    int DEFAULT_PLAY_FIELD_WIDTH = 1280;
+    int DEFAULT_PLAY_FIELD_HEIGHT = 720;
+    float BALL_ACCELERATION = 1.05f;
+    int DEFAULT_PADDLE_WIDTH = 20;
+    int DEFAULT_PADDLE_LENGTH = 128;
+    int DEFAULT_X_LOCATION_LEFT_PADDLE = 20;
+    int DEFAULT_PADDLE_MOVEMENT_SPEED = 4;
+    int DEFAULT_BALL_MOVEMENT_SPEED = 6;
+    int DEFAULT_BALL_SIZE = 10;
+}
